@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FemiOje
+- 👋 Hi, I’m Oluwafemi Ojetokun
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me. Twitter: @OjetokunF, email: ojetokunakinwale@gmail.com
 
 <!---
