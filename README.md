@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwafemi Ojetokun.
-- 👀 Interested in front-end web development.
-- 🌱 HTML, CSS, ReactJS, Git, Github
+- 👀 Front-end web development.
+- 🌱 HTML, CSS,TailwindCSS, Bootstrap, ReactJS, Git, Github
 - 📫 How to reach me. Twitter: @OjetokunF, email: ojetokunakinwale@gmail.com
 
 <!---
