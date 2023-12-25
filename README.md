@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Oluwafemi Ojetokun.
-- 👀 Game development, Front-end web development.
+- 👀 Game developer, Front-end web developer.
 - 🌱 C#, Unity, HTML, CSS,TailwindCSS, Bootstrap, ReactJS, Git, Github
 - 📫 How to reach me. Twitter: @OjetokunF, email: ojetokunakinwale@gmail.com
 
