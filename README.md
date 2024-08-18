@@ -1,6 +1,6 @@
 - 👀 Game developer, Front-end web developer.
-- 🌱 C#, Unity, HTML, CSS,TailwindCSS, Bootstrap, ReactJS, Git, Github
-- 📫 How to reach me. Twitter: @OjetokunF, email: ojetokunakinwale@gmail.com
+- 🌱 HTML, CSS, JS, C#, Unity, etc
+- 📫 Twitter: @OjetokunF, email: ojetokunakinwale@gmail.com
 
 <!---
 FemiOje/FemiOje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
